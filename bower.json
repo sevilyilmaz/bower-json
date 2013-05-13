@@ -1,0 +1,15 @@
+{
+  "name": "json",
+  "version": "2012.10.08",
+  "description": "JSON component",
+  "keywords": [
+    "json",
+    "json2",
+    "json parse",
+    "json parse state",
+    "cycle",
+    "component"
+  ],
+  "main": "json2.js",
+  "license": "JSON License"
+}
