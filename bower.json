@@ -4,11 +4,7 @@
   "description": "JSON component",
   "keywords": [
     "json",
-    "json2",
-    "json parse",
-    "json parse state",
-    "cycle",
-    "component"
+    "json2"
   ],
   "main": "json2.js",
   "license": "JSON License"
