@@ -6,6 +6,9 @@
     "json",
     "json2"
   ],
+  "ignore": [
+    "package.json"
+  ],
   "main": "json2.js",
   "license": "JSON License"
 }
