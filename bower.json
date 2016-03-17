@@ -1,6 +1,6 @@
 {
   "name": "json",
-  "version": "2012.10.08",
+  "version": "2015.05.03",
   "description": "JSON component",
   "keywords": [
     "json",
@@ -10,5 +10,8 @@
     "package.json"
   ],
   "main": "json2.js",
+  "moduleType": [
+    "globals"
+  ],
   "license": "JSON License"
 }
